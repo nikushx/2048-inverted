@@ -3,7 +3,7 @@ A small clone of [2048] with some inverted keyboard controls :)
 
 ### Contributions
 
-[Gabriele Cirulli] (https://gabrielecirulli.github.io/) for the original 2048.
+[Gabriele Cirulli] (https://github.com/gabrielecirulli/) for the original 2048.
 
 [Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
 
