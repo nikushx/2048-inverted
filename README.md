@@ -1,6 +1,8 @@
 # 2048 Inverted Keyboard Edition
 A small clone of [2048] with some inverted keyboard controls :)
 
+# PLAY HERE: http://nikushx.github.io/2048-inverted/
+
 ### Contributions
 
 [Gabriele Cirulli] (https://github.com/gabrielecirulli/) for the original 2048.
